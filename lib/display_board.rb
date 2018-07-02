@@ -11,6 +11,4 @@ puts row_2
 puts line
 puts row_3
 puts line
-
-
 end
